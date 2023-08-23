@@ -8,7 +8,7 @@ int recursiveF(int n) {
 }
 
 int main() {
-    int n = 10; // Replace with desired value of n
+    int n = 10; 
     int result = recursiveF(n);
     printf("F(%d) = %d\n", n, result);
     return 0;
